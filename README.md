@@ -22,7 +22,7 @@
 - 🤖 Crafting **Python Telegram bots** — including a live Persian multi-currency bot
 - 🌱 Exploring **AI agents** and modern web tooling
 - 🐧 **Linux & networking** enthusiast
-- 🤝 Open-source contributor — [OpenFrontIO]([https://github.com/parham0541/DevHayat](https://github.com/openfrontio/OpenFrontIO))
+- 🤝 Open-source contributor — [OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) · online browser-based RTS game
 - 📍 Tehran, Iran
 
 ## 🛠️ Tech Stack
@@ -56,7 +56,7 @@
 | 🤖 | **[telegram-currency-bot](https://github.com/MRGhust/telegram-currency-bot)** | Persian multi-currency Telegram bot with live rates | Python · Telegram Bot API |
 | 🎨 | **[Format-changer](https://github.com/MRGhust/Format-changer)** | Format changer utility | TypeScript |
 | 🎭 | **[Eleven-Roleplay](https://github.com/MRGhust/Eleven-Roleplay)** | Eleven Roleplay website | HTML · CSS |
-| 📊 | **[DevHayat](https://github.com/parham0541/DevHayat)** *(contributor)* | Modern project management platform — [my PR #1](https://github.com/parham0541/DevHayat/pull/1) | Next.js · Prisma · PostgreSQL |
+| 🎮 | **[OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)** *(contributor)* | Online browser-based RTS game | TypeScript |
 
 ## 📊 GitHub Statistics
 
