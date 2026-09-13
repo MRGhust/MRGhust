@@ -22,7 +22,7 @@
 - 🤖 Crafting **Python Telegram bots** — including a live Persian multi-currency bot
 - 🌱 Exploring **AI agents** and modern web tooling
 - 🐧 **Linux & networking** enthusiast
-- 🤝 Open-source contributor — [DevHayat](https://github.com/parham0541/DevHayat) · [PR #1](https://github.com/parham0541/DevHayat/pull/1)
+- 🤝 Open-source contributor — [OpenFrontIO]([https://github.com/parham0541/DevHayat](https://github.com/openfrontio/OpenFrontIO))
 - 📍 Tehran, Iran
 
 ## 🛠️ Tech Stack
