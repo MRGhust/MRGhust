@@ -55,7 +55,6 @@
 | 📡 | **[XConnect](https://github.com/MRGhust/XConnect)** | Fast & secure Xray VPN client for Android (VLESS) | Kotlin · VLESS |
 | 🤖 | **[telegram-currency-bot](https://github.com/MRGhust/telegram-currency-bot)** | Persian multi-currency Telegram bot with live rates | Python · Telegram Bot API |
 | 🎨 | **[Format-changer](https://github.com/MRGhust/Format-changer)** | Format changer utility | TypeScript |
-| 🎭 | **[Eleven-Roleplay](https://github.com/MRGhust/Eleven-Roleplay)** | Eleven Roleplay website | HTML · CSS |
 | 🎮 | **[OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)** *(contributor)* | Online browser-based RTS game | TypeScript |
 
 ## 📊 GitHub Statistics
